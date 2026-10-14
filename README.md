@@ -7,7 +7,7 @@ The project integrates a trained Extra Trees Regression model, a FastAPI backend
 
 Disclaimer: This is an educational machine learning project, not a clinically validated mental health assessment or diagnostic tool. Its predictions and recommendations are not a substitute for professional care.
 
-✨ Key Features
+✨ Key Features 
 📊 Wellness Score Prediction — Estimates a wellness score on a 0–10 scale using lifestyle-related inputs.
 🧠 Machine Learning Integration — Uses an Extra Trees Regression model with a preprocessing pipeline.
 😌 Stress-Level Insight — Lets users report Low, Medium, or High stress and applies a separate stress-based score adjustment.
