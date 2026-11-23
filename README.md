@@ -314,7 +314,7 @@ The project explores data-driven insights that encourage reflection on everyday 
 
 ## 👨‍💻 Author
 
-**HARSH PATEL**
+**GAURAV SINGH**
 B.Tech Computer Science & Engineering Student
 
 - GitHub: [gauravv-chauhan](https://github.com/gauravv-chauhan)
